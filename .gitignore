@@ -1,0 +1,6 @@
+/build/
+/cmake-build-*/
+/CMakeUserPresets.json
+/CMakeLists.txt.user*
+/core
+/core.*
